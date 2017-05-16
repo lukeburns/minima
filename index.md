@@ -6,5 +6,3 @@
 #
 layout: home
 ---
-
-Why is this empty?
